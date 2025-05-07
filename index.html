@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Site B - GA4 Cross Domain</title>
+</head>
+<body>
+    <h1>Site B</h1>
+    <p>Received GA/GL Params:</p>
+    <pre id="params"></pre>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const obj = Object.fromEntries(params.entries());
+        document.getElementById("params").innerText = JSON.stringify(obj, null, 2);
+    </script>
+</body>
+</html>
