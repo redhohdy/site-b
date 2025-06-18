@@ -1,0 +1,133 @@
+  var block20405 = document.getElementById("acef922769a4ac259c0e0a0043049627");
+	    var text20405 = '<div class=\"body_20405\"><div class=\"block_button_20405\"></div><div class=\"total_20405\" id=\"ifjffzfldtAD\" ><div class=\"head_20405\"><a href=\"https://advertnative.com\" target=\"_blank\" rel=\"nofollow noopener\"></a></div><div class=\"block_20405\"><div style=\"float:left;\" class=\"teaser_20405\"><a class=\"link_20405\" href=\"https://click.advertnative.com/move/?i=ODU1MTIsMjA0MDU=&h=3f0006e360e8ef8fe5790e8e47d786e1&t=MTc0OTgwNDc4NQ==\" target=\"_blank\" rel=\"nofollow noopener\" ><div class=\"img_wrap_20405\"><img class=\"img_20405 img_20405_85512\" src=\"https://i1.advertnative.com/storage/teaser/image/136/6327/1749541427-Kzb_200.jpg\"               onerror=\"this.onerror=null;this.src=\'https://worker35.advertnative.com/loading/stat_onerror_img/?b=20405&s=10821&h=2025-06-131082120405\'\"  alt =\"Advertisement\" /></div><div class=\"title_20405\">Ini cara untuk menambah tinggi badan Anda! +18 CM dalam 2 BULAN</div><div class=\"description_20405\">Tinggi tumbuh ke atas tanpa operasi!</div><div class=\"cost_goods_20405\" ></div><div class=\"teaser_button_20405\"></div></a></div><div style=\"float:left;\" class=\"teaser_20405\"><a class=\"link_20405\" href=\"https://click.advertnative.com/move/?i=ODAxMDMsMjA0MDU=&h=c008b40071e90735514fb7d89a7abb83&t=MTc0OTgwNDc4NQ==\" target=\"_blank\" rel=\"nofollow noopener\" ><div class=\"img_wrap_20405\"><img class=\"img_20405 img_20405_80103\" src=\"https://i1.advertnative.com/storage/teaser/image/136/6332/1736599761-22a_200.jpg\"               onerror=\"this.onerror=null;this.src=\'https://worker35.advertnative.com/loading/stat_onerror_img/?b=20405&s=10821&h=2025-06-131082120405\'\"  alt =\"Advertisement\" /></div><div class=\"title_20405\">Pesan jam tangan ROLEX mewah dengan diskon gila-gilaan 90%. Promosi terbatas!</div><div class=\"description_20405\">Sampai akhir promosi...</div><div class=\"cost_goods_20405\" ></div><div class=\"teaser_button_20405\"></div></a></div></div><div class=\"footer_20405\"><a href=\"https://advertnative.com\" target=\"_blank\" rel=\"nofollow noopener\"></a></div></div></div><style>.cost_goods_20405{display:none;} .img_20405_85512{ background: url(https://i1.advertnative.com/storage/teaser/image/136/6327/1749541427-Kzb_200.jpg);background-repeat: no-repeat; background-size:100%; height:100%; width:100%;}.img_20405_80103{ background: url(https://i1.advertnative.com/storage/teaser/image/136/6332/1736599761-22a_200.jpg);background-repeat: no-repeat; background-size:100%; height:100%; width:100%;}.total_20405 {     margin: 0 auto;     max-width: 300px;     //height: 250px;     position: relative;     overflow: hidden; }  .head_20405 > a::before {   content: \"\";   position: absolute;   top: 0;   right: 0;   width: 30px;   height: 25px;   background: #fff url(\"https://advertnative.com/storage/logo/all_an_white_4.png\") no-repeat left/120px;   transition: width 500ms ease-in-out; }  .head_20405 > a:hover::before {   width: 125px;  }  .head_20405 > a:hover {   transform: scale(1.2); }  .block_20405 {     width: 100%;     //padding-top: 35px;     height: auto;     margin: 0 auto;      display: -webkit-flex;     display: -ms-flexbox;     display: flex;     -webkit-justify-content: space-between;     -ms-flex-pack: justify;     justify-content: space-between;     -webkit-flex-wrap: wrap;     -ms-flex-wrap: wrap;     flex-wrap: wrap; }  .teaser_20405 {     width: 100%;     margin: 3px 0.5%;      //box-shadow: 0 1px 1px 0 rgba(60,64,67,0.08),0 2px 5px 1px rgba(60,64,67,0.16);     //border: 1px solid #D6D6D6;     border-radius: 4px;     overflow: hidden;     background: #fff;     color: #fff; }  .teaser_20405 a:hover {     text-decoration: none !important; }  .teaser_20405 a {     text-decoration: none; }  .img_wrap_20405 {     overflow: hidden;     width: 40%;     float: left;     max-width: 135px!important;     max-height: 130px;     margin-right: 5px; }  .img_20405 {     width: 100%;     max-width: 120px;     height: auto; }  .title_20405 {     //background: #e1e1e1;     padding: 0px 0px;     //margin-bottom: 5px;     font-family: Sans-serif,Roboto,Verdana,Arial,Helvetica;     font-size: 18px;     line-height: 1.2;     color: #000000;     font-weight: bold;     transition: 150ms;      text-align: left;     max-height: 110px;     overflow: hidden; }  .description_20405 {     display: none;     padding: 0px 7px 2px;     text-align: left;     max-height: 18px;     overflow: hidden;     color: #000;     line-height: 1.2;     font-family: Noto Sans, sans-serif;     font-size: 14px;     font-weight: normal; }</style>';
+	    block20405.innerHTML = text20405; 
+        if (typeof intervalIDaTK ==="undefined")
+        {
+            intervalIDaTK = setInterval( load_informeraTK , 400);
+        }
+        function load_informeraTK()
+        {
+            var block = getBlockaTK();
+            if( block )
+            {
+                var offset = getCoordsBlockaTK(block);
+                var screen_height = window.innerHeight;  
+                var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+                
+                if( ( offset.top < screen_height + scrollTop ) && block.clientHeight > 0)
+                {
+                    clearInterval(intervalIDaTK);
+                    var link = document.createElement("link"); 
+                    link.rel = "stylesheet";
+                    link.type="text/css";
+                    link.href="https://click.advertnative.com/loading/stat_in_sight/?b=20405&s=10821&t=85512,80103&h=f2da1ad8c0dfc40a5d7e715a98d933c8&r="+Math.random(); 
+                    block.parentNode.appendChild(link);
+                }
+            }
+        }
+        function getBlockaTK()
+        {
+            let block = document.getElementById("ifjffzfldtAD");
+            if( block ) {
+                return block;
+            }   
+            /*
+            let fr = window.top.document.querySelectorAll("iframe");
+            for( let i = 0; i < fr.length; i++ )
+            {
+                if( !fr[i].getAttribute("src") ) {
+                    if(fr[i].contentWindow.document.getElementById("ifjffzfldtAD")) {
+                        return fr[i];
+                    }
+                }
+            }
+            */
+            return false;
+        }      
+        function getCoordsBlockaTK(elem) 
+        {
+            var box = elem.getBoundingClientRect();
+            var body = document.body;
+            var docEl = document.documentElement;
+            var scrollTop = window.pageYOffset || docEl.scrollTop || body.scrollTop;
+            var scrollLeft = window.pageXOffset || docEl.scrollLeft || body.scrollLeft;
+            var clientTop = docEl.clientTop || body.clientTop || 0;
+            var clientLeft = docEl.clientLeft || body.clientLeft || 0;
+            var top = box.top + scrollTop - clientTop;
+            var left = box.left + scrollLeft - clientLeft;
+            return { top: top, left: left };
+        }
+            write_teaser_localstorageGEdYc();
+
+            function write_teaser_localstorageGEdYc()
+            {
+                try
+                {
+                    let teaser_id = "85512,80103";
+                    let ads_busy = localStorage.getItem("acef922769a4ac259c0e0a0043049627");
+                    if( ads_busy ) {
+                        let count = ads_busy.split(",").length;
+                        let count_teaser = teaser_id.split(",").length;
+                        if( 4 <= count / count_teaser ) {
+                            ads_busy = "";
+                        }         
+                    }
+                    ads_busy = ads_busy ? ads_busy + "," + teaser_id : teaser_id;
+                    localStorage.setItem("acef922769a4ac259c0e0a0043049627", ads_busy );
+                } 
+                catch (e) {
+                    return false;
+                }
+            }
+            set_marker_in_linkGEdYc();
+
+            function set_marker_in_linkGEdYc()
+            {
+                let key = "6a4b1447a4bee8a801bfa93aec3b902e";
+                let value = "729b1d952b3ccba8209658a29a0a48df";
+                try {
+                    localStorage.setItem( key, value );
+                    let ls = localStorage.getItem( key );
+                    let block = document.getElementById("acef922769a4ac259c0e0a0043049627");
+                    if( ls && block ) {
+                       let el = block.querySelectorAll("a");
+                       for( let i = 0; i < el.length; i++ ) {
+                          let href = el[i].getAttribute("href");
+                          el[i].setAttribute("href", href+"&ls="+ls );
+                       } 
+                    }
+                    localStorage.removeItem(key);
+                }
+                catch (e) {
+                    return false;
+                }
+            } 
+        check_view_reloadRQqYq();
+        function check_view_reloadRQqYq()
+        {
+            let block_id = 20405;
+            let hash = "2f614c08e4816f3d8edf8c9133384bb8";
+            let user = { "url" : document.location.href, "time" : 1749804786 };
+            try 
+            {
+                let info = JSON.parse( localStorage.getItem("840e87c07e1405cf61735cc3e6b88875") );
+                if( info && typeof info["url"] !== "undefined" && typeof info["time"] !== "undefined" && 
+                info["url"] == user["url"] && user["time"] - info["time"] < 3600 )
+                {
+                    let url =  btoa(unescape(encodeURIComponent(user["url"].slice(0,50) )));
+                    let sec = user["time"] - info["time"];
+                    let img = document.createElement("img");
+                    img.src = "https://worker35.advertnative.com/loading/stat_view_reload/?b="+block_id+"&h="+hash+"&url="+url+"&sec="+sec+"&ip=104.28.251.245&r="+Math.random();
+                    img.style.width = "1px";
+                    img.style.height = "1px";
+                    img.style.display = "none";
+                    img.alt = "Advertisement";
+                    let block = document.getElementById("acef922769a4ac259c0e0a0043049627");
+                    if(block) block.parentNode.appendChild(img);
+                }
+                localStorage.setItem( "840e87c07e1405cf61735cc3e6b88875", JSON.stringify(user) );
+            }
+            catch (e) {
+               return false;
+            }
+        } 

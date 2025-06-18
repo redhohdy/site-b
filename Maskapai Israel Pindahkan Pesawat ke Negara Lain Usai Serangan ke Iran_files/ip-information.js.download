@@ -1,0 +1,10 @@
+     window.iAT = {};
+     window.iAT.ipInfo = "data center";
+     window.iAT.ipStatus = "0";
+     window.iAT.IsBot = "0";
+     window.iAT.IsDataCenter = "1";
+     window.iAT.IsGeo = "0";
+     window.iAT.IsSpoofedDevice = "0";
+     window.iAT.IsSuspiciousIP = "0";
+     window.iAT.IsCrawler = "0";
+     window.iAT.province = "Jawa Tengah";
